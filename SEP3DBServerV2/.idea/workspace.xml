@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a28c2da-abd6-4638-bdc4-2c0275eecb2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SEP3DBServer/Adapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/Bookings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SEP3DBServer/Bookings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/Cinemas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SEP3DBServer/Cinemas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SEP3DBServer/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SEP3DBServer/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/META-INF/SEP3DBServer.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SEP3DBServer/Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/Movie_Dates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SEP3DBServer/Movie_Dates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/Package.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SEP3DBServer/Package.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SEP3DBServer/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/ServerMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SEP3DBServer/ServerMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SEP3DBServer/ThreadHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SEP3DBServer/ThreadHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TFDh2Pn2h7tenaRRuH1G0dc7oU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../P2pMsging" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\catal\Desktop\proijecte\SEP3DBServerV2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\catal\IdeaProjects\SEP3DBServer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ServerMain">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <module name="SEP3DBServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RmiServer" />
+      <module name="SEP3DBServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerMain" />
+      <module name="SEP3DBServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test3" />
+      <module name="SEP3DBServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerMain" />
+        <item itemvalue="Application.RmiServer" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a28c2da-abd6-4638-bdc4-2c0275eecb2d" name="Default Changelist" comment="" />
+      <created>1573047065544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573047065544</updated>
+      <workItem from="1573047071492" duration="614000" />
+      <workItem from="1573098812483" duration="7000" />
+      <workItem from="1573124811286" duration="13128000" />
+      <workItem from="1573491071480" duration="5289000" />
+      <workItem from="1573631959500" duration="2455000" />
+      <workItem from="1573902012757" duration="633000" />
+      <workItem from="1574418630911" duration="1942000" />
+      <workItem from="1574420748073" duration="5806000" />
+      <workItem from="1574695306862" duration="116000" />
+      <workItem from="1574869888925" duration="2063000" />
+      <workItem from="1575396560865" duration="102000" />
+      <workItem from="1575644959426" duration="1374000" />
+      <workItem from="1575795424318" duration="3871000" />
+      <workItem from="1575803445489" duration="8495000" />
+      <workItem from="1575824849703" duration="4578000" />
+      <workItem from="1575917585928" duration="1295000" />
+      <workItem from="1575996265162" duration="5694000" />
+      <workItem from="1576090510943" duration="599000" />
+      <workItem from="1576135296145" duration="3183000" />
+      <workItem from="1576141449334" duration="5886000" />
+      <workItem from="1576147489756" duration="4357000" />
+      <workItem from="1576152011632" duration="861000" />
+      <workItem from="1576153598734" duration="4653000" />
+      <workItem from="1576159412663" duration="3503000" />
+      <workItem from="1576228186449" duration="4715000" />
+      <workItem from="1576234828456" duration="7933000" />
+      <workItem from="1576243785603" duration="4616000" />
+      <workItem from="1576252071871" duration="7423000" />
+      <workItem from="1576332223461" duration="2465000" />
+      <workItem from="1576341744749" duration="1211000" />
+      <workItem from="1576343195341" duration="6134000" />
+      <workItem from="1576399424477" duration="1349000" />
+      <workItem from="1576402561475" duration="13006000" />
+      <workItem from="1576421636507" duration="3254000" />
+      <workItem from="1576428694702" duration="742000" />
+      <workItem from="1576480579203" duration="14320000" />
+      <workItem from="1576512210346" duration="6489000" />
+      <workItem from="1576574485705" duration="5695000" />
+      <workItem from="1576588822692" duration="3857000" />
+      <workItem from="1576617460129" duration="4840000" />
+      <workItem from="1576689228020" duration="3699000" />
+      <workItem from="1576717823528" duration="3740000" />
+      <workItem from="1576748576972" duration="19202000" />
+      <workItem from="1576805546215" duration="5042000" />
+      <workItem from="1578477154666" duration="3124000" />
+      <workItem from="1583080632050" duration="100000" />
+      <workItem from="1589306393244" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
